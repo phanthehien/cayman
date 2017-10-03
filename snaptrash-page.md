@@ -1,15 +1,21 @@
 ---
-layout: default
+SnapTrash solution
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+![](https://github.com/phanthehien/phanthehien.github.io/tree/master/assets/images/landscape.jpg)
 
-[Link to another page](another-page).
-[Link to another page](index).
+# [](#introduction)Introduction
 
-There should be whitespace between paragraphs.
+Snaptrash is a start-up solution that impressed me when I first time notice about it.
+As it will let the users take a picture of the trash item around their live, and share
+it to the social.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## System solution
+I will in charge of developing the system as an individual developer. The system will contains
+the server, web admin, mobile app (both Android and iOS version).
+
+ 
+
 
 # [](#header-1)Header 1
 
